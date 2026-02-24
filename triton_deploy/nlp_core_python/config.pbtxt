@@ -1,0 +1,33 @@
+# Triton Model Configuration for NLP Core Python Backend
+name: "nlp_core_python"
+platform: "python"
+max_batch_size: 8
+input [
+  {
+    name: "IDENTITY_KEY"
+    data_type: TYPE_STRING
+    dims: [1]
+  },
+  {
+    name: "FROM_SURFACE"
+    data_type: TYPE_STRING
+    dims: [1]
+  },
+  {
+    name: "TO_SURFACES"
+    data_type: TYPE_STRING
+    dims: [8]
+  },
+  {
+    name: "LAYER"
+    data_type: TYPE_INT32
+    dims: [1]
+  }
+]
+output [
+  {
+    name: "PROPOSALS"
+    data_type: TYPE_STRING
+    dims: [8]
+  }
+]

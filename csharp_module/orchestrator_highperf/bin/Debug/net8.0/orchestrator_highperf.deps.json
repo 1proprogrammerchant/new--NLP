@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "orchestrator_highperf/1.0.0": {
+        "runtime": {
+          "orchestrator_highperf.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "orchestrator_highperf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

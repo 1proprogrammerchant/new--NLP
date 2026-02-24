@@ -1,0 +1,14 @@
+/mnt/c/Users/wwwte/OneDrive/Pictures/Documents/new-NLP/csharp_module/orchestrator_highperf/bin/Debug/net8.0/orchestrator_highperf
+/mnt/c/Users/wwwte/OneDrive/Pictures/Documents/new-NLP/csharp_module/orchestrator_highperf/bin/Debug/net8.0/orchestrator_highperf.deps.json
+/mnt/c/Users/wwwte/OneDrive/Pictures/Documents/new-NLP/csharp_module/orchestrator_highperf/bin/Debug/net8.0/orchestrator_highperf.runtimeconfig.json
+/mnt/c/Users/wwwte/OneDrive/Pictures/Documents/new-NLP/csharp_module/orchestrator_highperf/bin/Debug/net8.0/orchestrator_highperf.dll
+/mnt/c/Users/wwwte/OneDrive/Pictures/Documents/new-NLP/csharp_module/orchestrator_highperf/bin/Debug/net8.0/orchestrator_highperf.pdb
+/mnt/c/Users/wwwte/OneDrive/Pictures/Documents/new-NLP/csharp_module/orchestrator_highperf/obj/Debug/net8.0/orchestrator_highperf.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/wwwte/OneDrive/Pictures/Documents/new-NLP/csharp_module/orchestrator_highperf/obj/Debug/net8.0/orchestrator_highperf.AssemblyInfoInputs.cache
+/mnt/c/Users/wwwte/OneDrive/Pictures/Documents/new-NLP/csharp_module/orchestrator_highperf/obj/Debug/net8.0/orchestrator_highperf.AssemblyInfo.cs
+/mnt/c/Users/wwwte/OneDrive/Pictures/Documents/new-NLP/csharp_module/orchestrator_highperf/obj/Debug/net8.0/orchestrator_highperf.csproj.CoreCompileInputs.cache
+/mnt/c/Users/wwwte/OneDrive/Pictures/Documents/new-NLP/csharp_module/orchestrator_highperf/obj/Debug/net8.0/orchestrator_highperf.dll
+/mnt/c/Users/wwwte/OneDrive/Pictures/Documents/new-NLP/csharp_module/orchestrator_highperf/obj/Debug/net8.0/refint/orchestrator_highperf.dll
+/mnt/c/Users/wwwte/OneDrive/Pictures/Documents/new-NLP/csharp_module/orchestrator_highperf/obj/Debug/net8.0/orchestrator_highperf.pdb
+/mnt/c/Users/wwwte/OneDrive/Pictures/Documents/new-NLP/csharp_module/orchestrator_highperf/obj/Debug/net8.0/orchestrator_highperf.genruntimeconfig.cache
+/mnt/c/Users/wwwte/OneDrive/Pictures/Documents/new-NLP/csharp_module/orchestrator_highperf/obj/Debug/net8.0/ref/orchestrator_highperf.dll
