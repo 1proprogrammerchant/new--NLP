@@ -1,4 +1,4 @@
-#!/mnt/c/Users/wwwte/OneDrive/Pictures/Documents/new-NLP/triton_deploy/.venv/bin/python3
+
 # -*- coding: utf-8 -*-
 import re
 import sys
