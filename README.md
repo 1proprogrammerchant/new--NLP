@@ -13,8 +13,14 @@ This project provides a template for building an NLP system for bots using Pytho
 - `.github/` — Copilot and project instructions
 
 ## Getting Started
-1. Implement your NLP logic in `python_nlp/` (see sample provided).
-2. Use integration samples to connect other languages (via REST/gRPC/shared libs).
+1. Create a Python virtual environment at the repo root so VS Code resolves the interpreter correctly:
+   ```bash
+   python3 -m venv .venv
+   source .venv/bin/activate   # Windows: .venv\Scripts\activate
+   pip install -r requirements.txt
+   ```
+2. Implement your NLP logic in `python_nlp/` (see sample provided).
+3. Use integration samples to connect other languages (via REST/gRPC/shared libs).
 3. Export models for deployment in `triton_deploy/`.
 4. See each module's README for language-specific instructions.
 

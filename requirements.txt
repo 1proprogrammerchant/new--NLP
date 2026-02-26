@@ -1,0 +1,5 @@
+# Python dependencies for the NLP module.
+# All runtime imports (typing, json) are part of the standard library.
+# Add third-party packages below as needed.
+pytest
+flake8

@@ -1,0 +1,17 @@
+# Python virtual environment
+.venv/
+
+# Python byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Go build artifacts
+go_module/**/*.test
+
+# IDE
+.idea/
